@@ -1,8 +1,8 @@
-
+I
 const person = {
     name:"Vipin",
-    mobile: "987",
-    city: "delhi"
+    mobile: "156",
+    city: "Delhi"
 
 }
 
